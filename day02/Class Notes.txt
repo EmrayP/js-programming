@@ -1,0 +1,45 @@
+JavaScript Programming Day02
+
+Original Plan:
+    Today:
+        String
+        Arrays
+        Functions
+        Import & Export
+        Class & Objects
+        Inheritance
+
+
+    Next Class:
+        Error Handlings
+        Promises
+        Asynch
+        Await
+        Tabnine - AI Coding Tool
+        Playwright intro
+        Fixtures
+        Locators
+    
+
+New Plan:
+    Today:
+        String
+        Array
+        Functions
+        Import & Export
+        Tabnine - AI Coding Tool
+
+
+    Next Class:
+        Class & Objects
+        Inheritance
+        Error handlings
+        Promises
+        Asynch
+        Await
+
+    Next Next Class:
+        Playwright Intro..
+
+
+
