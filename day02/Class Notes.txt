@@ -29,7 +29,6 @@ New Plan:
         Import & Export
         Tabnine - AI Coding Tool
 
-
     Next Class:
         Class & Objects
         Inheritance
