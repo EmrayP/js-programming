@@ -73,3 +73,6 @@ console.log(employees);
 employees.pop();
 
 console.log(employees);
+
+
+// come back at 7:47
