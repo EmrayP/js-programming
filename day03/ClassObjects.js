@@ -39,6 +39,10 @@ let employee3 = new Employee("Sukran");
 
 console.log(employee3);
 
+console.log('------------------------------------------');
+
+employee3.work();
+
 
 
 
