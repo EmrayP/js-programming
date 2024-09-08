@@ -1,0 +1,9 @@
+JavaScript Programming Day03
+
+Topics:
+    Import & Exports
+    Class & Objects
+    Inheritance
+    Exceptions/Errors
+    Promises
+    Async & Await
