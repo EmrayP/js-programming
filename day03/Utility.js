@@ -2,9 +2,12 @@ function square(x){
     return x * x;
 }
 
+
 function cube(y){
     return y * y * y;
 }
+
+
 
 function calculate(num1, num2, operator) {
     if (operator === '-') {
@@ -20,5 +23,7 @@ function calculate(num1, num2, operator) {
         return 0;
     }
 }
+
+
 
 module.exports = {square, cube, calculate}
