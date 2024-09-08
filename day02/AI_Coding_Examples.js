@@ -44,7 +44,7 @@ for(let i = 1; i < numbers.length; i++){
  console.log("----------------------------------------------------------------");
 
  // write a program that can sort the numbers array in ascending order. do not use any sort functions
-for(let i = 0; i < numbers.length; i++){
+for(let i = 0; i < numbers.length + 10; i++){
     for(let j = 0; j < numbers.length - 1 - i; j++){
         if(numbers[j] > numbers[j + 1]){
             let temp = numbers[j];
