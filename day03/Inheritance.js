@@ -38,7 +38,6 @@ class Teacher extends Person{
 }
 
 
-
 let student1 = new Student("John Doe", 18);
 console.log(student1);
 student1.eat();
@@ -48,3 +47,6 @@ let teacher1 = new Teacher("Jane Smith", 40);
 console.log(teacher1);
 teacher1.eat();
 teacher1.teach();
+
+
+// come back 12:15 PM 
