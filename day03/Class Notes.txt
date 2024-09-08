@@ -7,3 +7,29 @@ Topics:
     Exceptions/Errors
     Promises
     Async & Await
+
+
+
+Promises: future value/error
+
+    represents a vlue that will be available either now, or in the future, or NEVER
+
+    Think of it as guarantee that something will happen in the future
+
+
+
+async Task 1: Add the item to the cart on amazon
+    Go to amazon
+    Select item
+    Add the item to the cart (return Promises<Item>)
+
+
+async Task 2: Check out the item
+    Go to amazon
+    Go to the cart (item.resolve || item.reject)
+    Check out the item
+
+
+
+
+
